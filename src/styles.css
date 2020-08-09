@@ -1,1 +1,24 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    background-image: url("./assets/background_image.jpg");
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.heading{
+    text-align: center;
+    color: #ecb924;
+    font-size: 50px;
+
+}
+
+.display  {
+  color: white;
+  font-size: 26px;
+  text-align: center;
+}
